@@ -1,5 +1,5 @@
 # OpenGL-Assignment 2
-Textured Scene with trackball
+## Textured Scene with trackball
 
 Only main program without texture.
 
