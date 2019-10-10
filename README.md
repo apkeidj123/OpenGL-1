@@ -1,2 +1,2 @@
-# OpenGL-1
+# OpenGL-Assignment 2
 Textured Scene with trackball
